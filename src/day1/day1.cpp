@@ -9,7 +9,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
     double a, b, c;
     cout << "请输入a, b, c的值：";
     cin >> a >> b >> c;
