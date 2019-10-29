@@ -12,3 +12,5 @@ day3. [编写带实数 r 和整数 n 两个参数的函数并输出 r 的 n 次�
 day4. [编写一个字符串长度的函数strlen()，再用strlen()函数编写一个函数revers()，使字符串逆序。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day4)
 
 day5. [用函数模板实现 3 个数值中按最小值到最大值排序的程序](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day5)
+
+day6. [利用函数模板设计一个求数组元素中和的函数](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day6)
