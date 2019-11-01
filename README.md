@@ -19,3 +19,5 @@ day6. [利用函数模板设计一个求数组元素中和的函数](https://git
 day7. [重载上题中的函数模板，使他能够进行两个数组的求和](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day7)
 
 day8. [设计一个点类 Point ，再设计一个矩形类，矩形类使用 Point 类的 两个坐标点作为矩形的对角顶点 。并可以输出 4 个坐标值和面积。使用测试程序验证程序。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day8)
+
+day9. [使用内联函数设计一个类，用来表示直角坐标系中的任意一条直线并输出它的属性。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day9)
