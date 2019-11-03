@@ -23,3 +23,5 @@ day8. [设计一个点类 Point ，再设计一个矩形类，矩形类使用 Po
 day9. [使用内联函数设计一个类，用来表示直角坐标系中的任意一条直线并输出它的属性。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day9)
 
 day10. [声明复数的类， complex ，使用友元函数 add 实现复数加法。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day10)
+
+day11. [编写一个程序，该程序建立一个动态数组，为动态数组的元素赋值，显示动态数组的值并删除动态数组。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day11)
