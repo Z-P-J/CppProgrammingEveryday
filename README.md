@@ -25,3 +25,5 @@ day9. [使用内联函数设计一个类，用来表示直角坐标系中的任�
 day10. [声明复数的类， complex ，使用友元函数 add 实现复数加法。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day10)
 
 day11. [编写一个程序，该程序建立一个动态数组，为动态数组的元素赋值，显示动态数组的值并删除动态数组。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day11)
+
+day12. [定义一个 Dog 类，它用静态数据成员 Dogs 记录 Dog 的个体数目，静态成员函数 GetDogs 用来存取 Dogs 。设计并测试这个类。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day12)
