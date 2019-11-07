@@ -31,3 +31,5 @@ day12. [定义一个 Dog 类，它用静态数据成员 Dogs 记录 Dog 的个�
 day13. [设计一个抽象基类，圆柱类继承自该抽象基类，设计成员函数输出圆柱的面积和体积。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day13)
 
 day14. [定义一个线段类作为矩形的基类，基类有起点和终点坐标，有获取线段长度以及线段和 x 轴的夹角的成员函数。矩线段对象的两个坐标作为自己一条边的位置，它具有另外一条边，能输出矩形的 4 个顶点坐标。给出类的定义并用程序验证它们的功能。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day14)
+
+day15. [基类是使用极坐标的点类，从它派生一个圆类，圆类用点类作圆心，圆周通过极坐标原点，圆类有输出圆直、半径和面积的成员函数。完成类的设计并验证之。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day15)
