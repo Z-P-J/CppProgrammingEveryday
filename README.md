@@ -33,3 +33,5 @@ day13. [设计一个抽象基类，圆柱类继承自该抽象基类，设计成
 day14. [定义一个线段类作为矩形的基类，基类有起点和终点坐标，有获取线段长度以及线段和 x 轴的夹角的成员函数。矩线段对象的两个坐标作为自己一条边的位置，它具有另外一条边，能输出矩形的 4 个顶点坐标。给出类的定义并用程序验证它们的功能。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day14)
 
 day15. [基类是使用极坐标的点类，从它派生一个圆类，圆类用点类作圆心，圆周通过极坐标原点，圆类有输出圆直、半径和面积的成员函数。完成类的设计并验证之。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day15)
+
+day16. [设计一个线段基类，当创建无参数对象时，才要求用户输入长度。同样，其派生的直角三角形类也是在产生对象时要求输入两个直角边的长度。直角三角形在派生矩形类，矩形类的参数也由键盘输入。设计这些类并测试他们的功能。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day16)
