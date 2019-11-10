@@ -37,3 +37,5 @@ day15. [基类是使用极坐标的点类，从它派生一个圆类，圆类用
 day16. [设计一个线段基类，当创建无参数对象时，才要求用户输入长度。同样，其派生的直角三角形类也是在产生对象时要求输入两个直角边的长度。直角三角形在派生矩形类，矩形类的参数也由键盘输入。设计这些类并测试他们的功能。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day16)
 
 day17. [使用类模板演示赋值兼容规则。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day17)
+
+day18. [设计一个点的类模板，分别使用继承、包含的方法设计线段类模板，要求演示构造函数和复制构造函数的设计方法，并用主程序验证之。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day18)
