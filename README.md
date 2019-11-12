@@ -41,3 +41,5 @@ day17. [使用类模板演示赋值兼容规则。](https://github.com/Z-P-J/Cpp
 day18. [设计一个点的类模板，分别使用继承、包含的方法设计线段类模板，要求演示构造函数和复制构造函数的设计方法，并用主程序验证之。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day18)
 
 day19. [已知有一个整型数组 a ，其内容为 1 3 5 7 9 2 4 6 8 10. 先对数组进行升序排列，再使用它产生向量 b ，然后再在向量的尾部追加 11 ，并按降序排列输出向量的内容和 capacity() 的内容。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day19)
+
+day20. [利用流格式控制，进行成绩和名字的输出，要求名字左对齐，分数右对齐。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day20)
