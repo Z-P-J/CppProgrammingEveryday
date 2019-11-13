@@ -43,3 +43,5 @@ day18. [设计一个点的类模板，分别使用继承、包含的方法设计
 day19. [已知有一个整型数组 a ，其内容为 1 3 5 7 9 2 4 6 8 10. 先对数组进行升序排列，再使用它产生向量 b ，然后再在向量的尾部追加 11 ，并按降序排列输出向量的内容和 capacity() 的内容。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day19)
 
 day20. [利用流格式控制，进行成绩和名字的输出，要求名字左对齐，分数右对齐。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day20)
+
+day21. [编写一个产生文本文件的程序。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day21)
