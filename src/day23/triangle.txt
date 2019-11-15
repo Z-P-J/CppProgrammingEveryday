@@ -1,0 +1,5 @@
+sizeA: 3    sizeB: 4    sizeC: 5    S: 6
+sizeA: 2    sizeB: 3    sizeC: 4    S: 2.90474
+sizeA: 6    sizeB: 8    sizeC: 10    S: 24
+sizeA: 2.3    sizeB: 4.7    sizeC: 4.6    S: 5.17649
+sizeA: 23    sizeB: 46    sizeC: 47    S: 517.649

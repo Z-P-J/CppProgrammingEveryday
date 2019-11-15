@@ -47,3 +47,5 @@ day20. [利用流格式控制，进行成绩和名字的输出，要求名字左
 day21. [编写一个产生文本文件的程序。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day21)
 
 day22. [编写一个程序，要求输入三角形的 3 条边，然后判断是否合理，如果不合理，给出信息并要求重新输入；如果合理，计算其面积并将结果存入文件中。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day22)
+
+day23. [改写上题的程序，使程序反复计算，直到输入结束符号为止。要求在停止计算后，询问要保存的文件名，然后将结果一次写入制定文件中。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day23)
