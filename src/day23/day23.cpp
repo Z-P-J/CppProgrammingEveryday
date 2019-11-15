@@ -45,16 +45,6 @@ int main() {
                 && a + b > c 
                 && b + c > a 
                 && a + c > b) {
-                // double p = (a + b + c) / 2;
-                // double s = sqrt(p * (p - a) * (p - b) * (p - c));
-                // cout << "The s of the triangle is " << s << endl;
-                // ofstream file;
-                // file.open("./src/day22/triangles.txt", ios::app);
-                // if (file.fail()) {
-                //     cout << "The file open failed!" << endl;
-                // } else {
-                //     file << "a = " << a << ", b = " << b << ", c = " << c << ";    S = " << s << endl;
-                // }
                 Triangle triangle(a, b, c);
                 v.push_back(triangle);
             } else {
@@ -65,8 +55,6 @@ int main() {
         }
         
     }
-
-    
     system("pause");
     return 0;
 }
