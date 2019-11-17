@@ -51,3 +51,5 @@ day22. [编写一个程序，要求输入三角形的 3 条边，然后判断是
 day23. [改写上题的程序，使程序反复计算，直到输入结束符号为止。要求在停止计算后，询问要保存的文件名，然后将结果一次写入制定文件中。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day23)
 
 day24. [从文件 TEST 中读出字符并写入 TEST1 里，要求均附加错误检查。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day24)
+
+day25. [从键盘输入一个字符串，将其中的大写字母全部转换成小写字母，然后存入到文件名为 “text ”的磁盘文件中保存。输入的字符串以 “$ ”结束。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day25)
