@@ -53,3 +53,7 @@ day23. [改写上题的程序，使程序反复计算，直到输入结束符号
 day24. [从文件 TEST 中读出字符并写入 TEST1 里，要求均附加错误检查。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day24)
 
 day25. [从键盘输入一个字符串，将其中的大写字母全部转换成小写字母，然后存入到文件名为 “text ”的磁盘文件中保存。输入的字符串以 “$ ”结束。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day25)
+
+-------------------------------------------------
+
+day26. [输入一个成绩，打印相应的等级](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day26)
