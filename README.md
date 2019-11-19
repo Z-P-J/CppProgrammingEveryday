@@ -57,3 +57,5 @@ day25. [从键盘输入一个字符串，将其中的大写字母全部转换成
 -------------------------------------------------
 
 day26. [输入一个成绩，打印相应的等级](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day26)
+
+day27. [输入20个数，求其最大值、最小值和平均值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day27)
