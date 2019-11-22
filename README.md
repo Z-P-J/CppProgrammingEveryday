@@ -63,3 +63,5 @@ day27. [输入20个数，求其最大值、最小值和平均值](https://github
 day28. [输入若干个数，设输入的第一个数为后面要输入的数的个数，求平均值和最大值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day28)
 
 day29. [输入若干个数，输入-999表示结束，求平均值和最大值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day29)
+
+day30. [求1*1 + 2*2 + 3*3 + ... + 100*100](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day30)
