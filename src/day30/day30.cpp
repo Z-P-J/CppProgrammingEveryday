@@ -2,7 +2,7 @@
 using namespace std;
 
 /*
-
+求1*1 + 2*2 + 3*3 + ... + 100*100
 */
 
 int main() {

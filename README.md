@@ -65,3 +65,5 @@ day28. [输入若干个数，设输入的第一个数为后面要输入的数的
 day29. [输入若干个数，输入-999表示结束，求平均值和最大值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day29)
 
 day30. [求1*1 + 2*2 + 3*3 + ... + 100*100](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day30)
+
+day31. [印度国王的奖励问题，求和s = 2^0 + 2^1 + 2^3 + ... + 2^63](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day31)
