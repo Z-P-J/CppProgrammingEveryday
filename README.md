@@ -69,3 +69,5 @@ day30. [求1*1 + 2*2 + 3*3 + ... + 100*100](https://github.com/Z-P-J/CppProgramm
 day31. [印度国王的奖励问题，求和s = 2^0 + 2^1 + 2^3 + ... + 2^63](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day31)
 
 day32. [求和s = 1! + 2! + 3! + ... + 10!](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day32)
+
+day33. [求和s = 1/1! + 1/2! + 1/3! + ... + 1/10!](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day33)
