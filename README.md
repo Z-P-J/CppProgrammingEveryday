@@ -72,4 +72,6 @@ day32. [求和s = 1! + 2! + 3! + ... + 10!](https://github.com/Z-P-J/CppProgramm
 
 day33. [求和s = 1/1! + 1/2! + 1/3! + ... + 1/10!](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day33)
 
-day34. [求PI，PI = 1 + 1/3 + 1/3*2/5 + 1/3*2/5*3/7....](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day33)
+day34. [求PI，PI/2 = 1 + 1/3 + 1/3*2/5 + 1/3*2/5*3/7....](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day34)
+
+day34. [求PI，PI/4 = 1 - 1/3 + 1/5 - 1/7 ...](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day34)
