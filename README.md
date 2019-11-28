@@ -74,4 +74,6 @@ day33. [求和s = 1/1! + 1/2! + 1/3! + ... + 1/10!](https://github.com/Z-P-J/Cpp
 
 day34. [求PI，PI/2 = 1 + 1/3 + 1/3*2/5 + 1/3*2/5*3/7....](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day34)
 
-day34. [求PI，PI/4 = 1 - 1/3 + 1/5 - 1/7 ...](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day34)
+day35. [求PI，PI/4 = 1 - 1/3 + 1/5 - 1/7 ...](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day35)
+
+day36. [输入20个数，统计其中正数、负数和0的个数。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day36)
