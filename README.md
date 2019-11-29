@@ -77,3 +77,5 @@ day34. [求PI，PI/2 = 1 + 1/3 + 1/3*2/5 + 1/3*2/5*3/7....](https://github.com/Z
 day35. [求PI，PI/4 = 1 - 1/3 + 1/5 - 1/7 ...](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day35)
 
 day36. [输入20个数，统计其中正数、负数和0的个数。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day36)
+
+day37. [输入若干个数，计算其中奇数之和以及其偶数之和。输入0时表示结束。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day37)
