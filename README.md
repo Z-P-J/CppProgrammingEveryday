@@ -81,3 +81,5 @@ day36. [输入20个数，统计其中正数、负数和0的个数。](https://gi
 day37. [输入若干个数，计算其中奇数之和以及其偶数之和。输入0时表示结束。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day37)
 
 day38. [写一函数，计算x的y次方(假设x，y都是正整数)](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day38)
+
+day39. [求水仙花数，即一个三位数，其各位数字立方和等于数字本身](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day39)
