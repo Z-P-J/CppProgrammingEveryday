@@ -85,3 +85,5 @@ day38. [写一函数，计算x的y次方(假设x，y都是正整数)](https://gi
 day39. [求水仙花数，即一个三位数，其各位数字立方和等于数字本身](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day39)
 
 day40. [编写一个函数,确定一个整数是否为完全数(一个数,等于他的因子之和)。用这个函数确定和打印1到1000之间的所有完全数。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day40)
+
+day41. [写一函数，求斐波那契数列的第n项。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day41)
