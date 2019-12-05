@@ -89,3 +89,5 @@ day40. [编写一个函数,确定一个整数是否为完全数(一个数,等于
 day41. [写一函数，求斐波那契数列的第n项。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day41)
 
 day42. [写一个函数，取一个整数值并返回将此整数的各数字反序的数值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day42)
+
+day43. [写一个函数，将一个整数的各位数字的按顺序打印出来](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day43)
