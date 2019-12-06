@@ -91,3 +91,5 @@ day41. [写一函数，求斐波那契数列的第n项。](https://github.com/Z-
 day42. [写一个函数，取一个整数值并返回将此整数的各数字反序的数值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day42)
 
 day43. [写一个函数，将一个整数的各位数字的按顺序打印出来](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day43)
+
+day44. [求一个整数的各位数之和的函数](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day44)
