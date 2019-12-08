@@ -95,3 +95,5 @@ day43. [写一个函数，将一个整数的各位数字的按顺序打印出来
 day44. [求一个整数的各位数之和的函数](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day44)
 
 day45. [写一函数，判断某个数是否素数，以及求1一1000之内的素数](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day45)
+
+day46. [写一函数，判断某年是否是闰年](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day46)
