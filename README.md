@@ -105,3 +105,5 @@ day48. [打印杨辉三角形（帕斯卡三角形），打印10行。](https://
 day49. [掷骰子10000次，统计得到各点数的次数。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day49)
 
 day50. [编写函数distance，计算两点（x1，y1）和（x2，y2）之间的距离。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day50)
+
+day51. [使用随机投针法估计PI的值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day51)
