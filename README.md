@@ -107,3 +107,5 @@ day49. [掷骰子10000次，统计得到各点数的次数。](https://github.co
 day50. [编写函数distance，计算两点（x1，y1）和（x2，y2）之间的距离。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day50)
 
 day51. [使用随机投针法估计PI的值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day51)
+
+day52. [写一个程序，进行体操评分，依次输入10名评委所评分数，去除一个最高分和一个最低分，再算出平均分作为选手的得分。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day52)
