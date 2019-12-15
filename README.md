@@ -109,3 +109,5 @@ day50. [编写函数distance，计算两点（x1，y1）和（x2，y2）之间�
 day51. [使用随机投针法估计PI的值](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day51)
 
 day52. [写一个程序，进行体操评分，依次输入10名评委所评分数，去除一个最高分和一个最低分，再算出平均分作为选手的得分。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day52)
+
+day53. [写一函数，将一数组中的元素反转。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day53)
