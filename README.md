@@ -111,3 +111,5 @@ day51. [使用随机投针法估计PI的值](https://github.com/Z-P-J/CppProgram
 day52. [写一个程序，进行体操评分，依次输入10名评委所评分数，去除一个最高分和一个最低分，再算出平均分作为选手的得分。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day52)
 
 day53. [写一函数，将一数组中的元素反转。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day53)
+
+day54. [写一函数，在一个数组中找出最大元素的位置](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day54)
