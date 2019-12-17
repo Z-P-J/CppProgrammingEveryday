@@ -19,6 +19,7 @@ int main() {
     int arr[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
     int count = 0;
     for (int i = 0; i < 3; i++) {
+        // 先找出每行最大的位置，再考虑该位置的数是否在该列上最小
         int index = indexOfMax(arr[i], 3);
         int min = arr[i][index];
         for (int j = 0; j < 3 && j != i; j++) {
