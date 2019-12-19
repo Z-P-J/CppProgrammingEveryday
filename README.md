@@ -115,3 +115,5 @@ day53. [写一函数，将一数组中的元素反转。](https://github.com/Z-P
 day54. [写一函数，在一个数组中找出最大元素的位置](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day54)
 
 day55. [找出一个二维数组中的鞍点，即该元素在该行上最大，在该列上最小。](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day55)
+
+day56. [写一个字符串拷贝函数](https://github.com/Z-P-J/CppProgrammingEveryday/tree/master/src/day56)
